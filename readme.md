@@ -1,6 +1,8 @@
 # Hurtownia chemiczna 
 ## B2B - hurtownia jako firma i klient jest firma
 
+![Hurtownia chemiczna](https://kamilplowiec.tk/img/portfolio/csdesktop2.jpg)
+
 1. Firma mo¿e zarejestrowaæ siê z poziomu logowania, a nastêpnie zalogowaæ siê danymi utworzonego konta
 2. Dodawanie, edycja, usuwanie produktów hurtowni (nazwa, cena)
 3. Tworzenie, edycja zamówieñ przez klientów
