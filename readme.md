@@ -1,43 +1,43 @@
 # Hurtownia chemiczna 
-## B2B - hurtownia jako firma i klient jest firma
+## B2B - hurtownia - sklep
 
 ![Hurtownia chemiczna](https://kamilplowiec.tk/img/portfolio/csdesktop2.jpg)
 
-1. Firma mo¿e zarejestrowaæ siê z poziomu logowania, a nastêpnie zalogowaæ siê danymi utworzonego konta
-2. Dodawanie, edycja, usuwanie produktów hurtowni (nazwa, cena)
-3. Tworzenie, edycja zamówieñ przez klientów
-4. Realizacja zamówieñ przez hurtowniê (pracownik hurtowni usuwa zamówienie)
+1. Firma moÅ¼e zarejestrowaÄ‡ siÄ™ z poziomu logowania, a nastÄ™pnie zalogowaÄ‡ siÄ™ danymi utworzonego konta
+2. Dodawanie, edycja, usuwanie produktÃ³w hurtowni (nazwa, cena)
+3. Tworzenie, edycja zamÃ³wieÅ„ przez klientÃ³w
+4. Realizacja zamÃ³wieÅ„ przez hurtowniÄ™ (pracownik hurtowni usuwa zamÃ³wienie)
 
 Dane logowania:
-Pracownik: login i has³o: p
-Firma: login i has³o: f lub f2 lub f3
+- Pracownik - login i hasÅ‚o: p
+- Firma - login i hasÅ‚o: f lub f2 lub f3
 
-## Opis dzia³ania
+## Opis dziaÅ‚ania
 
 1. Logowanie
-- Okno umo¿liwia rejestracjê nowej firmy
-- Dane do logowania nale¿y wpisac z konta zarejestrowanej firmy
-- Zamkniêcie okno logowania lub klikniêcie w nim przycisku Zamknij, zamknie równie¿ ca³¹ aplikacjê
-- W systemie dostêpna jest opcja Wylogowania za pomoc¹ przycisku Wyloguj po prawej stronie
+- Okno umoÅ¼liwia rejestracjÄ™ nowej firmy
+- Dane do logowania naleÅ¼y wpisac z konta zarejestrowanej firmy
+- ZamkniÄ™cie okno logowania lub klikniÄ™cie w nim przycisku Zamknij, zamknie rÃ³wnieÅ¼ caÅ‚Ä… aplikacjÄ™
+- W systemie dostÄ™pna jest opcja Wylogowania za pomocÄ… przycisku Wyloguj po prawej stronie
 
-2. Okno listy zamówieñ (u¿ytkownik)
-- U¿ytkownikowi wyœwietlaj¹ siê jego w³aœne zamówienia
-- Edycja zamówienia otwiera sie po dwukrotnym klikniêciu na dany rekord zamówienia
+2. Okno listy zamÃ³wieÅ„ (uÅ¼ytkownik)
+- UÅ¼ytkownikowi wyÅ›wietlajÄ… siÄ™ jego wÅ‚aÅ›ne zamÃ³wienia
+- Edycja zamÃ³wienia otwiera sie po dwukrotnym klikniÄ™ciu na dany rekord zamÃ³wienia
 
-3. Okno listy zamówieñ (pracownik)
-- Pracownikowi wyœwietlaj¹ siê wszystkie zamówienia z systemu
-- Pracownik mo¿e edytowaæ zamówienia jak zwyk³y u¿ytkownik
+3. Okno listy zamÃ³wieÅ„ (pracownik)
+- Pracownikowi wyÅ›wietlajÄ… siÄ™ wszystkie zamÃ³wienia z systemu
+- Pracownik moÅ¼e edytowaÄ‡ zamÃ³wienia jak zwykÅ‚y uÅ¼ytkownik
 
-4. Okno edycji zamówienia (lub przycisk Dodaj zamówienie)
-- Zamówienie musi mieæ podany tytu³.
-- Ni¿ej wyœwietlana jest lista produktów zamówienia
-- Przycisk Lista produktów pozwala na dodawanie produktów do edytowanego zamówienia
-- Dodanie produktu odbywa siê przez dwukrotne klikniêcie na Liœcie produktów, je¿eli okno Listy produktów zosta³o otwarte z poziomu edycji zamówienia
+4. Okno edycji zamÃ³wienia (lub przycisk Dodaj zamÃ³wienie)
+- ZamÃ³wienie musi mieÄ‡ podany tytuÅ‚.
+- NiÅ¼ej wyÅ›wietlana jest lista produktÃ³w zamÃ³wienia
+- Przycisk Lista produktÃ³w pozwala na dodawanie produktÃ³w do edytowanego zamÃ³wienia
+- Dodanie produktu odbywa siÄ™ przez dwukrotne klikniÄ™cie na LiÅ›cie produktÃ³w, jeÅ¼eli okno Listy produktÃ³w zostaÅ‚o otwarte z poziomu edycji zamÃ³wienia
 
-5. Lista produktów
-- Lista produktów umo¿liwia wyœwietlenie i edycjê wszystkich produktów w systemie
-- Edycja produktu odbywa siê przez dwukrotne klikniêcie produktu na liœcie
-- Przycisk Dodaj produkt umo¿liwia dodanie nowego produktu
+5. Lista produktÃ³w
+- Lista produktÃ³w umoÅ¼liwia wyÅ›wietlenie i edycjÄ™ wszystkich produktÃ³w w systemie
+- Edycja produktu odbywa siÄ™ przez dwukrotne klikniÄ™cie produktu na liÅ›cie
+- Przycisk Dodaj produkt umoÅ¼liwia dodanie nowego produktu
 
 6. Okno edycji produktu
 - Produkt zawiera dane takie, jak Nazwa i Cena
